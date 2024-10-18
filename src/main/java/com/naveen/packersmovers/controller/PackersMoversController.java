@@ -22,6 +22,6 @@ public class PackersMoversController {
         
         
         @GetMapping("/ping")
-        public String ping() {  return "hi,this is v1 version";}             
+        public String ping() {  return "hi,this is v2 version";}             
 
     }
